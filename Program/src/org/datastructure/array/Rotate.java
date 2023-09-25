@@ -1,4 +1,4 @@
-package org.datastructure.generalcode;
+package org.datastructure.array;
 
 public class Rotate {
 
